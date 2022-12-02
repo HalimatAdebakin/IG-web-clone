@@ -21,6 +21,7 @@
     height: 100vh;
     padding-left: 25px;
     border-right: 1px solid #b7b7b7;
+    position: fixed;
   }
 
   .flexdirection > a{
@@ -74,6 +75,7 @@
     width: 60%;
     display: grid;
     padding: 10px 120px;
+    margin-left: 280px;
     /* grid-template-columns: 60% 40%;
     grid-row-gap: 30px;
     margin: 20px 0 0 250px; */
